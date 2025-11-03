@@ -1,5 +1,5 @@
-# mockup-sistem-tracking-status-dan-notifikasi-surat-nadia-rosmayaputri
-repositori untuk mockup sistem tracking status dan notifikasi surat-tugas desain thinking bisnis digital universitas ma'soem
+# mockup-sistem-akademik-kelola-surat-nadia-rosmayaputri
+repositori untuk mockup sistem akademik kelola surat-tugas desain thinking bisnis digital universitas ma'soem
 Informasi Proyek :
 Nama : Nadia Rosmayaputri 
 Prodi : Bisnis Digital 
